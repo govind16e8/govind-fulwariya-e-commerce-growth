@@ -21,7 +21,7 @@ const Footer = () => {
           {/* Contact Links */}
           <div className="flex items-center gap-6">
             <a
-              href="https://wa.me/917014489565"
+              href="https://wa.me/919510986441?text=Hi%20Govind%2C%20looking%20to%20discuss%20e-commerce%20consulting."
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-sm text-footer-foreground/70 hover:text-footer-foreground transition-colors"
@@ -30,7 +30,9 @@ const Footer = () => {
               <span>WhatsApp</span>
             </a>
             <a
-              href="mailto:gfulwariya94@gmail.com"
+              href="mailto:gfulwariya94@gmail.com
+              ?subject=E-commerce%20Consulting%20Inquiry
+              &body=Hello%20Govind%2C%0A%0AI%20am%20interested%20in%20your%20e-commerce%20consulting%20services%20for%20Amazon%2C%20Shopify%2C%20or%20eBay.%0A%0AI%20would%20like%20to%20discuss%20my%20business%20requirements%20and%20next%20steps.%0A%0ARegards%2C%0A"
               className="flex items-center gap-2 text-sm text-footer-foreground/70 hover:text-footer-foreground transition-colors"
             >
               <Mail size={18} />
