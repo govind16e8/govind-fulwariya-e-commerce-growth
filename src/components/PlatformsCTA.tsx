@@ -69,7 +69,7 @@ const PlatformsCTA = () => {
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <Button asChild size="lg" className="min-w-[200px]">
                 <a
-                  href="mailto:fulwariyagovind583@gmail.com?subject=E-commerce%20Consulting%20Inquiry&body=Hello%20Govind%2C%0A%0AI%20am%20interested%20in%20your%20e-commerce%20consulting%20services%20for%20Amazon%2C%20Shopify%2C%20or%20eBay.%0A%0AI%20would%20like%20to%20discuss%20my%20business%20requirements%20and%20next%20steps.%0A%0ARegards%2C%0A"
+                  href="https://wa.me/919510986441?text=Hi%20Govind%2C%20looking%20to%20discuss%20e-commerce%20consulting."
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -79,7 +79,7 @@ const PlatformsCTA = () => {
               </Button>
               <Button asChild variant="outline" size="lg" className="min-w-[200px]">
                   <a
-                    href="mailto:fulwariyagov@gmail.com?subject=Ecommerce%20Consulting%20Inquiry&body=Hello%20Govind%2C%0A%0AI%20would%20like%20to%20discuss%20e-commerce%20consulting."
+                    href="mailto:fulwariyagovind583@gmail.com?subject=E-commerce%20Consulting%20Inquiry&body=Hello%20Govind%2C%0A%0AI%20am%20interested%20in%20your%20e-commerce%20consulting%20services%20for%20Amazon%2C%20Shopify%2C%20or%20eBay.%0A%0AI%20would%20like%20to%20discuss%20my%20business%20requirements%20and%20next%20steps.%0A%0ARegards%2C%0A"
                   >
                     <Mail className="mr-2 h-5 w-5" />
                     Contact via Gmail
